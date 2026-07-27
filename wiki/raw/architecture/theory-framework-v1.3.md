@@ -1,0 +1,1 @@
+../../../docs/core/SynthGen Core 理论核心框架 v1.3.md

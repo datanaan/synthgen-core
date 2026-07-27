@@ -1,0 +1,1 @@
+../../../docs/product/SynthGen Core 的实际价值：五个独立维度.md

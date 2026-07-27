@@ -1,0 +1,4 @@
+add_library(synthgen_timetravel
+    time_travel_engine.cpp
+)
+target_link_libraries(synthgen_timetravel PUBLIC synthgen_common synthgen_version synthgen_model_storage synthgen_gc synthgen_scaffold)

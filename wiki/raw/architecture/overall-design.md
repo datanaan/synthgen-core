@@ -1,0 +1,1 @@
+../../../docs/superpowers/2026-05-10-synthgen-overall-design.md

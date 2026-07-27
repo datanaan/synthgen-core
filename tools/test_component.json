@@ -1,0 +1,17 @@
+{
+  "name": "SampleValidator",
+  "namespace": "synthgen::engine::sample",
+  "spans": ["validate"],
+  "metrics": ["rows_validated"],
+  "explain_fields": ["constraint_type"],
+  "dependencies": ["Schema"],
+  "methods": [
+    {
+      "name": "validate_batch",
+      "return": "Result<void>",
+      "params": [
+        {"name": "batch", "type": "std::shared_ptr<arrow::Table>"}
+      ]
+    }
+  ]
+}

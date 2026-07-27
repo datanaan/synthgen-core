@@ -1,0 +1,25 @@
+#pragma once
+
+#include "common/result.h"
+#include "scaffold/trace.h"
+#include "scaffold/metrics.h"
+#include "scaffold/explain.h"
+{{INCLUDES}}
+
+namespace {{NAMESPACE}} {
+
+class {{NAME}} {
+public:
+{{CONSTRUCTOR}}
+
+{{METHODS}}
+
+    scaffold::ExplainInfo explain() const;
+
+private:
+    // TODO: 核心逻辑由开发者填充
+    struct Impl;
+    std::unique_ptr<Impl> impl_;
+};
+
+}  // namespace {{NAMESPACE}}

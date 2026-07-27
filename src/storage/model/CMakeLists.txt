@@ -1,0 +1,4 @@
+add_library(synthgen_model_storage
+    model_storage_layer.cpp
+)
+target_link_libraries(synthgen_model_storage PUBLIC synthgen_common synthgen_version synthgen_scaffold)

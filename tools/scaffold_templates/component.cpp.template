@@ -1,0 +1,15 @@
+#include "{{NAME_SNAKE}}.h"
+
+namespace {{NAMESPACE}} {
+
+{{CONSTRUCTOR_IMPL}}
+
+{{METHOD_IMPLS}}
+
+scaffold::ExplainInfo {{NAME}}::explain() const {
+    scaffold::ExplainInfo info;
+    // TODO: 填充 explain 字段
+    return info;
+}
+
+}  // namespace {{NAMESPACE}}

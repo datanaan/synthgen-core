@@ -1,0 +1,1 @@
+../../../docs/superpowers/v2/plans/2026-05-10-synthgen-v2-unit-l-plan.md

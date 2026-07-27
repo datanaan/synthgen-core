@@ -1,0 +1,1 @@
+../../../docs/core/SynthGen Core 工程框架 v0.4.md
