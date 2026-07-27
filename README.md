@@ -160,6 +160,12 @@ src/
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=datanaan/synthgen-core&type=Date)](https://star-history.com/#datanaan/synthgen-core&Date)
+
+---
+
 ## License
 
 Apache 2.0 — see [LICENSE](LICENSE).
