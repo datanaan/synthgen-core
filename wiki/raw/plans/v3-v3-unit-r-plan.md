@@ -1,1 +1,0 @@
-../../../docs/superpowers/v3/plans/2026-05-10-synthgen-v3-unit-r-plan.md

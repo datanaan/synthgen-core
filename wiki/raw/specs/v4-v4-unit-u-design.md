@@ -1,1 +1,0 @@
-../../../docs/superpowers/v4/specs/2026-05-10-synthgen-v4-unit-u-design.md

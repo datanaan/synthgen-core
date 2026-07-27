@@ -1,1 +1,0 @@
-../../../docs/superpowers/v3/specs/2026-05-10-synthgen-v3-completeness-check.md

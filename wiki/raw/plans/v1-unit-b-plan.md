@@ -1,1 +1,0 @@
-../../../docs/superpowers/v1/plans/2026-05-10-synthgen-v1-unit-b-plan.md

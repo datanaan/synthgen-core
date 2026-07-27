@@ -1,1 +1,0 @@
-../../../docs/superpowers/v4/plans/2026-05-10-synthgen-v4-tool-plan.md

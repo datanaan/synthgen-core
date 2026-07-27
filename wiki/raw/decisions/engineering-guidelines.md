@@ -1,1 +1,0 @@
-../../../docs/reference/SynthGen Core 工程执行守则.md

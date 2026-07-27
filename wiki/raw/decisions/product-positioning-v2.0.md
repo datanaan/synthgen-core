@@ -1,1 +1,0 @@
-../../../docs/product/SynthGen Core 产品定位与协作关系 v2.0.md
